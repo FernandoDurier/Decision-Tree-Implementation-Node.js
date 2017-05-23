@@ -1,0 +1,19 @@
+{
+  "name": "decisiion-tree-test",
+  "version": "1.0.0",
+  "description": "Studies about decision trees modules in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Cardoso Durier da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "decision-tree": "^0.3.1",
+    "fs": "0.0.1-security",
+    "js-beautify": "^1.6.14",
+    "q": "^1.5.0",
+    "request": "^2.81.0"
+  }
+}
